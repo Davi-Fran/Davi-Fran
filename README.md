@@ -1,5 +1,5 @@
 # Olá! Eu sou o Davi França!
-- 👨‍🎓 Estudante do último ano do curso técnico em **Desenvolvimento de Sistemas**;
+- 👨‍🎓 Estudante do 3° ano do curso técnico em **Desenvolvimento de Sistemas**;
 - 💻 Desenvolvedor apaixonado por tecnologia e aprendizado contínuo;
 
 ## 🖥 Tecnologias conhecidas
